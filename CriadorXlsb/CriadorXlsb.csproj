@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<OutputType>Library</OutputType>
+		<Authors>Athos Louzeiro Schrapett</Authors>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<Description>Uma biblioteca para converter arquivos XLSX para XLSB utilizando Python.</Description>
+		<PackageId>CriadorXLSB</PackageId>
+		<Version>1.0.6</Version>
+	</PropertyGroup>
+	<ItemGroup>
+		<None Include="converterXlsxEmXlsb.py">
+			<Pack>true</Pack>
+			<PackagePath>contentFiles\any\any</PackagePath>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+</Project>
