@@ -73,7 +73,7 @@ Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE
 ## 🌟 **Contribuições**
 Sinta-se à vontade para contribuir! Se encontrar problemas ou quiser adicionar melhorias, abra uma **issue** ou envie um **pull request**.
 
-📬 **Contato:** [Seu GitHub ou E-mail](https://github.com/seuusuario)
+📬 **Contato:** [AthosSchrapett](https://github.com/AthosSchrapett)
 
 ---
 
